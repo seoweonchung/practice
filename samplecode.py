@@ -163,8 +163,12 @@ for i in range(0, len(info)):
     n = 0
     final_list.append(dict_name)
     
+<<<<<<< HEAD
 <<<<<<< 5008b80cf6e87ba88d498405d6b3cc50431e4c3b
 I EDITED THIS LINE
 =======
 changed this line on branch code~~~~~~~~~
 >>>>>>>  changed another line on branch
+=======
+changed this line on branch code~~~~~~~~~
+>>>>>>> b1e6ab62afbf94788fdc68bfea0eed974754df99
