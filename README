@@ -1,5 +1,9 @@
 +++++ this is original file now!+++++
 
+<<<<<<< HEAD
 This is another branch ‘new’ i am editing rn
 
 Another edit on new branch
+=======
+this file has been edited since the new branch haahhaah
+>>>>>>> afe9219bbbb235082739e040f71df14986f92b56
