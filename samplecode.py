@@ -162,11 +162,5 @@ for i in range(0, len(info)):
     dict_name['nameL'] = nameL
     n = 0
     final_list.append(dict_name)
-#
-#with open('names.csv', 'w', newline = '') as csvfile:
-#    fieldnames = ['program', 'program coordinator', 'nameF', 'nameL', 'email', 'phone']
-#    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-#    
-#    writer.writeheader()
-#    for dictionary in final_list:
-#        writer.writerow(dictionary)
+    
+changed this line on branch code~~~~~~~~~
